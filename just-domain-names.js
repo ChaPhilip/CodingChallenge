@@ -19,3 +19,4 @@ console.log(parseDomainName("http://www.zombie-bites.com") , 'zombie-bites')
 console.log(parseDomainName("https://www.cnet.com"),'cnet')
 
 
+
