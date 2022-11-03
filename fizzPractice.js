@@ -22,3 +22,5 @@ function fizzBuzz(num){
 fizzBuzz(5)
 fizzBuzz(3)
 fizzBuzz(15)
+
+
