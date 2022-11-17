@@ -12,3 +12,6 @@ const min2 = arr.reduce((a,c)=> Math.min(a,c))
 
 const min3= Math.min(...arr)
 console.log(min3)
+
+
+
